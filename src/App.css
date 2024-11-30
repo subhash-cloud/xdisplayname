@@ -1,0 +1,8 @@
+.full-name-display{
+  margin-left: 10px;
+}
+
+.full-name-display input{
+  display: flex;
+  flex-direction: column;
+}
